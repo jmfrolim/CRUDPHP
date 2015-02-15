@@ -1,4 +1,6 @@
 <?php 
+	
+	// arquivo para testar a conexao com o banco de dados
 	include_once 'classes/cliente.class.php';
 	
 	$clientes = new cliente();
